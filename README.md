@@ -17,8 +17,8 @@
 - Este proyecto consistió en el diseño y desarrollo de una Aplicación de Página Única (Single Page Application, SPA) con el objetivo de facilitar el acceso y la gestión de conductores. La aplicación se estructuró en dos partes principales: una página de inicio diseñada para autenticar y dirigir a los usuarios a la página principal, y la página principal propiamente dicha, donde se lleva a cabo la administración de la información de los conductores. Elaboré la aplicación utilizando React js para el front-end, con estilos en CSS, y gestioné la actualización de los estados de la página a través de Redux. Para el back-end, desarrollé la aplicación en Node.js con Express. La base de datos se implementó en PostgreSQL y se utilizó Sequelize como ORM. [Pi-henry-drivers](https://github.com/facuballone/pi-henry-drivers)
 <table align="center">
   <tr>
-    <td align="center"><img src="url_de_la_primera_imagen" width="550" height="250"></td>
-    <td align="center"><img src="url_de_la_segunda_imagen" width="550" height="250"></td>
+    <td align="center"><img src="https://github.com/facuballone/facuballone/assets/138073695/935225dd-20bf-447e-83b3-08b09b5b2366" width="600" height="300"></td>
+    <td align="center"><img src="https://github.com/facuballone/facuballone/assets/138073695/0702065a-83a4-41cc-b2ff-3874ed562e48" width="600" height="300"></td>
   </tr>
 </table>
 
