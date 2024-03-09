@@ -5,16 +5,16 @@
 
 
 
-<h3 align="center">Soy programador Full Stack Developer con formación en desarrollo web y una sólida base en JavaScript, lo cual me ha permitido especializarme tanto en Front-end como en Back-end. Mi experiencia incluye el manejo de React, Node.js, Redux, SQL y Express, herramientas que han sido fundamentales para construir diversos proyectos.</h3>
+<h3 align="center">💻 Soy programador Full Stack Developer con formación en desarrollo web y una sólida base en JavaScript, lo cual me ha permitido especializarme tanto en Front-end como en Back-end. Mi experiencia incluye el manejo de React, Node.js, Redux, SQL y Express, herramientas que han sido fundamentales para construir diversos proyectos.💻 </h3>
 
 
 
 
 
-<h3 align="left">Proyectos:</h3>
+<h3 align="left">Proyectos📱:</h3>
 
 
-- Este proyecto consistió en el diseño y desarrollo de una Aplicación de Página Única (Single Page Application, SPA) con el objetivo de facilitar el acceso y la gestión de conductores. La aplicación se estructuró en dos partes principales: una página de inicio diseñada para autenticar y dirigir a los usuarios a la página principal, y la página principal propiamente dicha, donde se lleva a cabo la administración de la información de los conductores. Elaboré la aplicación utilizando React js para el front-end, con estilos en CSS, y gestioné la actualización de los estados de la página a través de Redux. Para el back-end, desarrollé la aplicación en Node.js con Express. La base de datos se implementó en PostgreSQL y se utilizó Sequelize como ORM. [Pi-henry-drivers](https://github.com/facuballone/pi-henry-drivers)
+-👾 Este proyecto consistió en el diseño y desarrollo de una Aplicación de Página Única (Single Page Application, SPA) con el objetivo de facilitar el acceso y la gestión de conductores. La aplicación se estructuró en dos partes principales: una página de inicio diseñada para autenticar y dirigir a los usuarios a la página principal, y la página principal propiamente dicha, donde se lleva a cabo la administración de la información de los conductores. Elaboré la aplicación utilizando React js para el front-end, con estilos en CSS, y gestioné la actualización de los estados de la página a través de Redux. Para el back-end, desarrollé la aplicación en Node.js con Express. La base de datos se implementó en PostgreSQL y se utilizó Sequelize como ORM.👾 [Pi-henry-drivers](https://github.com/facuballone/pi-henry-drivers)
 <table align="center">
   <tr>
     <td align="center"><img src="https://github.com/facuballone/facuballone/assets/138073695/935225dd-20bf-447e-83b3-08b09b5b2366" width="600" height="300"></td>
@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-- El proyecto se centra en el universo de "Rick and Morty", y asumí el desafío de crear una página web para exhibir y gestionar los personajes que existen en este mundo. La aplicación cuenta con una página principal donde se inicia sesión con las credenciales, y posteriormente se accede a la página de inicio que diseñé para mostrar personajes, permitir su guardado en favoritos y ordenarlos a través de distintos filtros. Para la realización de este proyecto, utilicé React.js, CSS y HTML, junto con Redux para el desarrollo del front-end. En cuanto al back-end, lo desarrollé en Node.js con Express. [Rick-and-morty-app](https://github.com/facuballone/Rick-And-Morty-proyecto)
+-👾 El proyecto se centra en el universo de "Rick and Morty", y asumí el desafío de crear una página web para exhibir y gestionar los personajes que existen en este mundo. La aplicación cuenta con una página principal donde se inicia sesión con las credenciales, y posteriormente se accede a la página de inicio que diseñé para mostrar personajes, permitir su guardado en favoritos y ordenarlos a través de distintos filtros. Para la realización de este proyecto, utilicé React.js, CSS y HTML, junto con Redux para el desarrollo del front-end. En cuanto al back-end, lo desarrollé en Node.js con Express. 👾[Rick-and-morty-app](https://github.com/facuballone/Rick-And-Morty-proyecto)
 <table align="center">
   <tr>
     <td align="center"><img src="https://github.com/facuballone/facuballone/assets/138073695/c6d955d5-6b1e-4658-8504-036319d63163" width="600" height="300"></td>
