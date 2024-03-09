@@ -25,8 +25,8 @@
 - El proyecto se centra en el universo de "Rick and Morty", y asumí el desafío de crear una página web para exhibir y gestionar los personajes que existen en este mundo. La aplicación cuenta con una página principal donde se inicia sesión con las credenciales, y posteriormente se accede a la página de inicio que diseñé para mostrar personajes, permitir su guardado en favoritos y ordenarlos a través de distintos filtros. Para la realización de este proyecto, utilicé React.js, CSS y HTML, junto con Redux para el desarrollo del front-end. En cuanto al back-end, lo desarrollé en Node.js con Express. [Rick-and-morty-app](https://github.com/facuballone/Rick-And-Morty-proyecto)
 <table align="center">
   <tr>
-    <td align="center"><img src="url_de_la_primera_imagen" width="550" height="250"></td>
-    <td align="center"><img src="url_de_la_segunda_imagen" width="550" height="250"></td>
+    <td align="center"><img src="https://github.com/facuballone/facuballone/assets/138073695/c6d955d5-6b1e-4658-8504-036319d63163" width="600" height="300"></td>
+    <td align="center"><img src="https://github.com/facuballone/facuballone/assets/138073695/8c53af87-7b06-40b6-b9dc-184f59cd7478" width="600" height="300"></td>
   </tr>
 </table>
 
