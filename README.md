@@ -26,7 +26,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://github.com/facuballone/facuballone/assets/138073695/c6d955d5-6b1e-4658-8504-036319d63163" width="600" height="300"></td>
-    <td align="center"><img src="https://github.com/facuballone/facuballone/assets/138073695/8c53af87-7b06-40b6-b9dc-184f59cd7478" width="600" height="300"></td>
+    <td align="center"><img src="https://github.com/facuballone/facuballone/assets/138073695/7ed872a3-154d-4cdb-b341-77f014e3ca3a" width="600" height="300"></td>
   </tr>
 </table>
 
