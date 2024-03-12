@@ -34,6 +34,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/facundo-b-91bb58121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo ballone" height="30" width="40" /></a>
 </p>
+<p align="left">
+<img src="https://github.com/facuballone/facuballone/assets/138073695/8794b66f-d208-400d-9546-ebb71e0c7ae2" width="40" height="30"><font color="blue">facuballone@gmail.com</font>
+</p>
 
 
 
