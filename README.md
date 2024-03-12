@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">💻 Soy programador Full Stack Developer con formación en desarrollo web y una sólida  base en JavaScript, lo cual me ha permitido especializarme tanto en Front-end como en Back-end. Mi experiencia incluye el manejo de React, Node.js, Redux, SQL y Express, herramientas que han sido fundamentales para construir diversos proyectos.💻 </h3>
+<h3 align="center">💻 Soy programador Full Stack Developer con formación en desarrollo web y una sólida base en JavaScript, lo cual me ha permitido especializarme tanto en Front-end como en Back-end. Mi experiencia incluye el manejo de React, Node.js, Redux, SQL y Express, herramientas que han sido fundamentales para construir diversos proyectos.💻 </h3>
 
 
 
