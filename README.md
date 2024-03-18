@@ -15,7 +15,7 @@
 
 <h3 align="left">Contactarme:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/facundo-b-91bb58121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo ballone" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/facundo-ballone-91bb58121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo ballone" height="30" width="40" /></a>
 </p>
 
 
