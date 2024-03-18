@@ -11,7 +11,7 @@
 
 
 
-<h3 align="left">En esta pagina diseñada por mi, encontraran una breve descripcion sobre mi y los proyectos que desarrollo 📱:https://portafoliofacundoballone.netlify.app/sobremi</h3>
+<h3 align="left">En esta pagina diseñada por mi, encontraran una breve descripcion sobre mi y los proyectos que desarrollo 📱:https://portafoliofacundoballone.netlify.app/</h3>
 
 
 
